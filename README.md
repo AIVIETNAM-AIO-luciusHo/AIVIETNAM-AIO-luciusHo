@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 
 
-# Hi there, I'm Hồ Văn Lực 👋
-### 🤖 AI Engineer | Deep Learning & Local AI Specialist
+# Hi there, I'm Hồ Văn Lực 
+###  AI Engineer   | Deep Learning & Local AI Specialist
 
 Passionate about building efficient AI pipelines, Computer Vision, Natural Language Processing, and deploying localized SLMs.
 
