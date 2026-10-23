@@ -1,32 +1,31 @@
-## Hi there 
+# Hồ Văn Lực
 
-# Hi there, I'm Hồ Văn Lực 
-###  AI Engineer   | Deep Learning & Local AI Specialist
+**AI Engineer** specializing in Deep Learning, Natural Language Processing, and On-Device/Local AI.
 
-Passionate about building efficient AI pipelines, Computer Vision, Natural Language Processing, and deploying localized SLMs.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-**Core & Deep Learning:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Tools & Environments:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+I focus on building optimized AI pipelines, model compression, and edge deployment with clean, maintainable system architectures.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### Focus Areas & Technical Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-luciusHo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-luciusHo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- **Machine Learning & Deep Learning:** PyTorch, Hugging Face, TinyML, Computer Vision, SLMs/LLMs
+- **Backend & Systems:** Python, FastAPI, C++, Docker, Linux (WSL2), Git
+- **Data & Storage:** Firebase, SQLite, Vector Databases
 
+---
+
+### Featured Work
+
+- **[AI-mental-health](https://github.com/AIVIETNAM-AIO-luciusHo/AI-mental-health)**  
+  End-to-end NLP workflow analyzing mental health indicators with robust model serving.
+- **[gradient-vanishing-analysis](https://github.com/AIVIETNAM-AIO-luciusHo/gradient-vanishing-analysis)**  
+  Mathematical modeling and analytical breakdown of gradient dynamics in deep neural architectures.
+- **[My-NotebookLM](https://github.com/AIVIETNAM-AIO-luciusHo/My-NotebookLM)**  
+  Document-grounded question-answering assistant integrating retrieval pipelines.
+
+---
+
+### Connect
+
+- **GitHub:** [AIVIETNAM-AIO-luciusHo](https://github.com/AIVIETNAM-AIO-luciusHo)
+- **Email:** [luc723520@gmail.com]
