@@ -29,3 +29,4 @@ I focus on building optimized AI pipelines, model compression, and edge deployme
 
 - **GitHub:** [AIVIETNAM-AIO-luciusHo](https://github.com/AIVIETNAM-AIO-luciusHo)
 - **Email:** [luc723520@gmail.com]
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIVIEETNAM-AIO-luciusHo&show_icons=true&theme=dark)
