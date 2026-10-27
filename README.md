@@ -24,13 +24,12 @@ I focus on building optimized AI pipelines, model compression, and edge deployme
   Document-grounded question-answering assistant integrating retrieval pipelines.
 
 ---
-
 ### Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIVIETNAM-AIO-luciusHo&theme=github-dark" width="100%" alt="Activity Graph" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-luciusHo&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-luciusHo&layout=compact&theme=github_dark" />
+</p>
 ---
 
 ### Connect
