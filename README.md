@@ -27,8 +27,8 @@ I focus on building optimized AI pipelines, model compression, and edge deployme
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-luciusHo&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-luciusHo&layout=compact&theme=github_dark" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-luciusHo&show_icons=true&theme=github_dark" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-luciusHo&layout=compact&theme=github_dark" />
 </p>
 ---
 
