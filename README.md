@@ -4,13 +4,6 @@
 
 I focus on building optimized AI pipelines, model compression, and edge deployment with clean, maintainable system architectures.
 
----
-
-### Focus Areas & Technical Stack
-
-- **Machine Learning & Deep Learning:** PyTorch, Hugging Face, TinyML, Computer Vision, SLMs/LLMs
-- **Backend & Systems:** Python, FastAPI, C++, Docker, Linux (WSL2), Git
-- **Data & Storage:** Firebase, SQLite, Vector Databases
 
 ---
 
