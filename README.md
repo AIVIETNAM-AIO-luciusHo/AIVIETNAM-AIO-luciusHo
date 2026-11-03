@@ -60,11 +60,11 @@ I focus on building optimized AI pipelines, model compression, and edge deployme
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-luciusHo&show_icons=true&theme=github_dark&role=OWNER&number_format=long"
+    src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-luciusHo&show_icons=true&theme=github_dark&role=OWNER&number_format=long&cache_seconds=1800&v=2"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-luciusHo&layout=compact&theme=github_dark"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-luciusHo&layout=compact&theme=github_dark&cache_seconds=1800&v=2"
     alt="Most Used Languages"
   />
 </p>
