@@ -77,5 +77,4 @@ I focus on building optimized AI pipelines, model compression, and edge deployme
 
 ### Connect
 
-- **GitHub:** [AIVIETNAM-AIO-luciusHo](https://github.com/AIVIETNAM-AIO-luciusHo)
 - **Email:** [luc723520@gmail.com](mailto:luc723520@gmail.com)
