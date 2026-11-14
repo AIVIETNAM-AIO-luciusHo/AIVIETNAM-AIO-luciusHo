@@ -47,14 +47,12 @@ I focus on building optimized AI pipelines, model compression, and edge deployme
 
 
 ### Featured Work
-
-- **[AI-mental-health](https://github.com/AIVIETNAM-AIO-luciusHo/AI-mental-health)**  
-  End-to-end NLP workflow analyzing mental health indicators with robust model serving.
-- **[gradient-vanishing-analysis](https://github.com/AIVIETNAM-AIO-luciusHo/gradient-vanishing-analysis)**  
-  Mathematical modeling and analytical breakdown of gradient dynamics in deep neural architectures.
+- **[Han–Viet Alignment](https://github.com/AIVIETNAM-AIO-luciusHo/han-viet-alignment)**  
+  A data pipeline that aligns classical Chinese passages with their Vietnamese translations to build a sentence-level parallel corpus.
 - **[My-NotebookLM](https://github.com/AIVIETNAM-AIO-luciusHo/My-NotebookLM)**  
   Document-grounded question-answering assistant integrating retrieval pipelines.
-
+- **[RealCheck](https://github.com/AIVIETNAM-AIO-luciusHo/realcheck)**  
+  An image classification system that uses CLIP to distinguish real photos from AI-generated images.
 ---
 
 ### Activity
