@@ -57,17 +57,19 @@ I focus on building optimized AI pipelines, model compression, and edge deployme
 
 ### Activity
 
+
+
 <h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
   <img
     height="195"
-    src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-luciusHo&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;show=prs_authored,prs_merged,reviews"
+    src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-luciusHo&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;show=prs_authored,prs_merged,reviews&amp;cache_seconds=21600"
     alt="GitHub Statistics"
   />
   <img
     height="195"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-luciusHo&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;size_weight=0.5&amp;count_weight=0.5"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-luciusHo&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=21600"
     alt="Most Used Programming Languages"
   />
 </p>
