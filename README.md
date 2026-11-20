@@ -46,11 +46,19 @@ I focus on building optimized AI pipelines, model compression, and edge deployme
 ---
 
 
+
 ### Featured Work
+
+- **[GitHub Automation Bot — QA](https://github.com/AIVIETNAM-AIO-luciusHo/automation-bot-QA)**  
+  [![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)](https://github.com/dependabot/dependabot-core)  
+  A Python-based automation tool designed to complement GitHub Dependabot, streamline issue creation and task assignments, and improve QA workflows through automated coordination.
+
 - **[RealCheck](https://github.com/AIVIETNAM-AIO-luciusHo/realcheck)**  
   An image classification system that uses CLIP to distinguish real photos from AI-generated images.
+
 - **[My-NotebookLM](https://github.com/AIVIETNAM-AIO-luciusHo/My-NotebookLM)**  
   Document-grounded question-answering assistant integrating retrieval pipelines.
+
 - **[Han–Viet Alignment](https://github.com/AIVIETNAM-AIO-luciusHo/han-viet-alignment)**  
   A data pipeline that aligns classical Chinese passages with their Vietnamese translations to build a sentence-level parallel corpus.
 
